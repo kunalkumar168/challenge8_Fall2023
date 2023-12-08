@@ -19,3 +19,9 @@ categories:
 `Question` : What was the last movie you watched in a theater?
 
 `Answer` : Oppenhiemer.
+
+## Task 2:
+
+`Question` : What did you eat for today\'s lunch?
+
+`Answer`: Rice and Pulse.
