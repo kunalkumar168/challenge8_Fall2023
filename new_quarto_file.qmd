@@ -1,0 +1,21 @@
+---
+title: "Challenge_8: Github"
+author: "Kunal Kumar"
+description: "Creating a new quartor file in a github version control R project"
+date: "12/08/2023"
+format:
+  html:
+    df-print: paged
+    css: "styles.css"
+    embed-resources: true
+    self-contained-math: true
+categories:
+  - weekly_challenges
+  - challenge_8
+---
+
+## Task 1:
+
+`Question` : What was the last movie you watched in a theater?
+
+`Answer` : Oppenhiemer.
